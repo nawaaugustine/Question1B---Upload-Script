@@ -1,0 +1,10 @@
+{
+    "api_token": "8dc8c61ead887e71e3700efa92d8fb62fb7606d7",
+    "parent_data_path": "./data/parent.xlsx",
+    "child_data_paths": [
+      {"name": "child_data_1", "path": "./data/child.xlsx"}
+    ],
+    "project_uuid": "a9umjBsBixyfSshGkywqWd",
+    "parent_id_column": "FID",
+    "child_id_column": "FID"
+  }

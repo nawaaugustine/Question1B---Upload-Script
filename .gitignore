@@ -1,0 +1,14 @@
+{
+    "name": "KoBo upload scripts",
+    "version": "0.0.1",
+    "description": "Uploads data to KoBo",
+    "main": "main.py",
+    "scripts": {
+        "start": "python main.py"
+    },
+    "dependencies": {
+        "pandas": "^1.5.3",
+        "requests": "".
+        "python": "^3"
+    }
+}
